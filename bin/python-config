@@ -1,4 +1,4 @@
-#!/home/vladimir/workspace/flask_project/bin/python
+#!/home/eq/work/flask_project/bin/python
 
 import sys
 import getopt
